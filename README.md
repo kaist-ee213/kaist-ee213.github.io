@@ -1,1 +1,1 @@
-# kaist-ee213.github.io
+# EE213 Discrete Methods for Electrical Engineering
